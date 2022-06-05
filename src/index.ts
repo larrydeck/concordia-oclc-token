@@ -1,5 +1,5 @@
-import fetch = require('node-fetch');
-import cache = require('memory-cache');
+import fetch from 'node-fetch';
+import * as cache from 'memory-cache';
 
 type Credentials = {
     WSKEY: string
