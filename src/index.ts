@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import './node-fetch';
 import * as cache from 'memory-cache';
 
 type Credentials = {
