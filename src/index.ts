@@ -1,5 +1,5 @@
 // import fetch from 'node-fetch';
-require('isomorphic-fetch');
+import 'isomorphic-fetch';
 import * as cache from 'memory-cache';
 
 type Credentials = {
