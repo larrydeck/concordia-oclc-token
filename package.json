@@ -45,8 +45,10 @@
     "lib/**/*"
   ],
   "dependencies": {
+    "@types/isomorphic-fetch": "^0.0.36",
     "@types/memory-cache": "^0.2.2",
     "@types/node-fetch": "^2.6.1",
+    "isomorphic-fetch": "^3.0.0",
     "memory-cache": "^0.2.0",
     "node-fetch": "^3.2.5"
   }
