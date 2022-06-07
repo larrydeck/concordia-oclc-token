@@ -1,6 +1,6 @@
 {
   "name": "concordia-oclc-token",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Used to fetch and cache an OCLC API token for re-use between calls to the same service, until it expires.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
